@@ -1,7 +1,2 @@
-print("hello world")
+print("Welcome to my class!")
 
-
-def welcome():
-  print ("welcome to intellipat")
-  print ("this is a tutorial for Github Actions")
-  welcome()
